@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.dsathyan.qrcodetest.scroll2"
+    android:background="@drawable/scrollbackground">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="330dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Art Chamber"
+            android:id="@+id/button10"
+            android:layout_gravity="center_horizontal"
+            android:background="#80000000" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Art Room"
+            android:id="@+id/button169"
+            android:layout_gravity="center_horizontal"
+            android:background="#30000000" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Chess Room"
+            android:id="@+id/button12"
+            android:layout_gravity="center_horizontal"
+            android:background="#80000000" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button13"
+            android:layout_gravity="center_horizontal"
+            android:background="#30000000"
+            android:text="AV Room" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Dance Room"
+            android:id="@+id/buttonx"
+            android:layout_gravity="center_horizontal"
+            android:background="#80000000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:weightSum="1"
+        android:id="@+id/linearLayout3">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="QR Scanner"
+            android:id="@+id/button15"
+            android:layout_alignTop="@+id/linearLayout3"
+            android:layout_centerHorizontal="true" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:text="Map View"
+        android:id="@+id/buttony"
+        android:layout_weight="0.27"
+        android:layout_alignParentBottom="true"
+        android:typeface="sans"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

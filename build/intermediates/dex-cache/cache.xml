@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\libs\armeabi-v7a.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1d1c924a0f3fb116c770f07a992a1d9fff5365b9">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\armeabi-v7a-946a2f45044aa5c399ac3dd8b92849e5822610af.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\libs\armeabi.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f9b796c889e398a8fd6b2f997b94c101e8a9dbcb">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\armeabi-9772c919d558f42cbf04de7f5ce0a0e8571a8121.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-daec450de4d2e0dd8bede0101dd90a050db46142.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\classes-e66130c6559e2080b7a1a62118a7904cde4d6566.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\zbar-48d49b1f20dd1b32e05a5b33301eb56585498df9.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\classes-7a92f90ef6b75cf83abbfc5b6101ea96f1e045f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\libs\x86.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4cec3c6e129913967ff2d71da18e2daf6bd1b565">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\x86-47b044ae4be86efac43ab3c37a91dd788d2c3dac.jar" />
+    </item>
+    <item
+        jar="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\dsathyan\Desktop\QRCODETEST\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1b55be416d5f94024c4821fd5493e76b36d75ba7.jar" />
+    </item>
+
+</items>

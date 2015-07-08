@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dsathyan.qrcodetest" >
+
+    <uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.vibrate"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_sml"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="QR SCANNER"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".launcher"
+            android:label="ART EXHIBITION"
+            android:screenOrientation="sensorPortrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Scroll"
+            android:label="@string/title_activity_scroll"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".scroll2"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Map"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Chamber"
+            android:label="@string/title_activity_chamber"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Artroom"
+            android:label="@string/title_activity_artroom"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Chessroom"
+            android:label="@string/title_activity_chessroom"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".AVroom"
+            android:label="@string/title_activity_avroom"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MiniAuditorium"
+            android:label="@string/title_activity_mini_auditorium"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Dancedoom"
+            android:label="@string/title_activity_dancedoom"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Painting"
+            android:label="@string/title_activity_painting" >
+        </activity>
+        <activity
+            android:name=".Aboutapp"
+            android:label="@string/title_activity_aboutapp" >
+        </activity>
+        <activity
+            android:name=".Location"
+            android:label="@string/title_activity_location" >
+        </activity>
+        <activity
+            android:name=".YouAreHere"
+            android:label="@string/title_activity_you_are_here" >
+        </activity>
+    </application>
+
+</manifest>
